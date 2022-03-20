@@ -32,6 +32,6 @@ Prefer the speed and fluidity of chat? Then join our [distninja community](https
 
 
 
-### GitHub issues 🔩
+### Issues 🔩
 
 Bugs should be reported as issues in the corresponding repository, e.g., [distninja/ninja](https://github.com/distninja/ninja/issues), and so forth.
