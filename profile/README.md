@@ -18,6 +18,12 @@ Hey! We're glad you're thinking about contributing to [distninja](https://github
 
 
 
+## 🧪 Testing
+
+Here is [the testing](https://github.com/distninja/testing) performed for clients and servers using REAPIs.
+
+
+
 ## 🖥 Demos 
 
 Do you want to see [distninja](https://github.com/distninja) in action? Check the list of our demos [in the dedicated repository](https://github.com/distninja/demo). 
