@@ -2,7 +2,7 @@
 
 
 
-👋  Hi! This is [distninja](https://github.com/distninja), an open-source, distributed build system built in Rust.
+👋 Hi! This is [distninja](https://github.com/distninja), an open-source, distributed build system built in Rust.
 
 
 
