@@ -6,59 +6,19 @@
 
 
 
-## 🚀 Latest Release
+## 🚀 Planning
 
-### v1.0.0-alpha - 2025-06-30
+Below is a summary of the top level plan items.
 
-#### ✨ New Features
+Legend of annotations:
 
-N/A
+| Mark | Description                                       |
+|:----:|:--------------------------------------------------|
+|  🏃  | work in progress                                  |
+|  ✋  | blocked task                                      |
+|  🔵  | more investigation required to remove uncertainty |
+|  ✅  | completed                                         |
 
-#### 🐛 Bug Fixes
+### Commands
 
-N/A
-
-#### 🔄 Changes
-
-N/A
-
-#### 📦 Dependencies
-
-N/A
-
-
-
-## 📚 Documentation 
-
-Our [documentation website](https://distninja.github.io) is hosted in a [public GitHub repository](https://github.com/distninja/distninja.github.io).
-
-
-
-## 🤝 Contributing 
-
-Hey! We're glad you're thinking about contributing to [distninja](https://github.com/distninja)! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
-
-
-
-## 🧪 Testing
-
-Here is [the testing](https://github.com/distninja/testing) performed for clients and servers using REAPIs.
-
-
-
-## 🖥 Demos 
-
-Do you want to see [distninja](https://github.com/distninja) in action? Check the list of our demos [in the dedicated repository](https://github.com/distninja/demo). 
-
-
-
-
-## 💌 Contact
-
-### Chat 💬
-
-Prefer the speed and fluidity of chat? Then join our [distninja community](https://gitter.im/craftslab/distninja).
-
-### Issues 🔩
-
-Bugs should be reported as issues in the corresponding repository.
+✅ Add commands for grpc and http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
