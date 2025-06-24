@@ -21,4 +21,5 @@ Legend of annotations:
 
 ### Commands
 
-✅ Add commands for grpc and http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
+✅ Add commands for http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
+✅ Add commands for grpc api [distninja/distninja#2](https://github.com/distninja/distninja/issues/3)  
