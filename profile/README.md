@@ -26,9 +26,9 @@ Legend of annotations:
 
 ### Deploy
 
-✅ Add docker for http/grpc server [distninja/distninja#3](https://github.com/distninja/distninja/issues/4)  
-✅ Add support for android soong [distninja/distninja#3](https://github.com/distninja/distninja/issues/5)  
+✅ Add docker for http/grpc server [distninja/distninja#4](https://github.com/distninja/distninja/issues/4)  
+✅ Add support for android soong [distninja/distninja#5](https://github.com/distninja/distninja/issues/5)  
 
 ### API
 
-✅ Add api for cross-lang files [distninja/distninja#3](https://github.com/distninja/distninja/issues/6)  
+✅ Add api for cross-lang files [distninja/distninja#6](https://github.com/distninja/distninja/issues/6)  
