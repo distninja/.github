@@ -23,3 +23,7 @@ Legend of annotations:
 
 ✅ Add commands for http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
 ✅ Add commands for grpc proto [distninja/distninja#3](https://github.com/distninja/distninja/issues/3)  
+
+### Deploy
+
+✅ Add docker for http/grpc server [distninja/distninja#3](https://github.com/distninja/distninja/issues/4)  
