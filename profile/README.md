@@ -19,7 +19,7 @@ Legend of annotations:
 |  🔵  | more investigation required to remove uncertainty |
 |  ✅  | completed                                         |
 
-### Commands
+### Command
 
 ✅ Add commands for http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
 ✅ Add commands for grpc proto [distninja/distninja#3](https://github.com/distninja/distninja/issues/3)  
@@ -31,4 +31,4 @@ Legend of annotations:
 
 ### API
 
-✅ Add api for cross-lang files [distninja/distninja#6](https://github.com/distninja/distninja/issues/6)  
+✅ Add apis for cross-lang files [distninja/distninja#6](https://github.com/distninja/distninja/issues/6)  
