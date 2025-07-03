@@ -19,16 +19,19 @@ Legend of annotations:
 |  🔵  | more investigation required to remove uncertainty |
 |  ✅  | completed                                         |
 
-### Command
+### API
 
-✅ Add commands for http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
-✅ Add commands for grpc proto [distninja/distninja#3](https://github.com/distninja/distninja/issues/3)  
+✅ Add http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
+✅ Add http api for cross-lang files [distninja/distninja#6](https://github.com/distninja/distninja/issues/6)  
+
+### Proto
+
+✅ Add grpc proto [distninja/distninja#3](https://github.com/distninja/distninja/issues/3)  
+
+### Build
+
+✅ Add support for android soong [distninja/soong#1](https://github.com/distninja/soong/issues/1)  
 
 ### Deploy
 
 ✅ Add docker for http/grpc server [distninja/distninja#4](https://github.com/distninja/distninja/issues/4)  
-✅ Add support for android soong [distninja/distninja#5](https://github.com/distninja/distninja/issues/5)  
-
-### API
-
-✅ Add apis for cross-lang files [distninja/distninja#6](https://github.com/distninja/distninja/issues/6)  
