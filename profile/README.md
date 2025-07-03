@@ -21,7 +21,7 @@ Legend of annotations:
 
 ### API
 
-✅ Add http api [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
+✅ Add http apis [distninja/distninja#2](https://github.com/distninja/distninja/issues/2)  
 ✅ Add http api for cross-lang files [distninja/distninja#6](https://github.com/distninja/distninja/issues/6)  
 
 ### Proto
